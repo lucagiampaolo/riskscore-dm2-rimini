@@ -1,0 +1,11 @@
+# Dati sensibili — NON caricare su GitHub
+Pazienti_*.xlsx
+*_Completo.xlsx
+*_Sintetico.xlsx
+*.csv
+__pycache__/
+.DS_Store
+*.pyc
+.env
+# Modello grande — usa Git LFS o HuggingFace
+# mtl_v2_best.h5
